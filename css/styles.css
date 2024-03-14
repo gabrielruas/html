@@ -1,0 +1,31 @@
+body {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    margin: 0 auto; /* Centraliza o conteúdo na página */
+    background-color: #ee8b72; /* Cor de fundo cinza claro */
+}
+
+.bodyfilmes-series {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    margin: 0 auto; /* Centraliza o conteúdo na página */
+    background-color: #5f5d5d; /* Cor de fundo cinza escuro */
+}
+
+h1 {
+    margin-top: 50px; /* Adiciona espaço acima do título */
+}
+
+h2 {
+    margin-top: 50px; 
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+.hex-colorido {
+    background-color: #FF0000; /* Cor de fundo vermelha */
+    color: #ffff00; /* Cor do texto amarela */
+}
+.hex-colorido-filmes{
+    background-color: #000000; /* Cor de fundo vermelha */
+    color: #FF0000; /* Cor do texto amarela */
+}
+
+
