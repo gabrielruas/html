@@ -1,0 +1,22 @@
+.body {
+    background-color: #f5f55f; /* Amarelo claro */
+}
+
+.h1{
+    color: #ffffff; /* Branco */
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: #ffff00; /* Amarelo */
+    color: #ff0000; /* Vermelho */
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
+}

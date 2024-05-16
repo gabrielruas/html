@@ -1,5 +1,6 @@
 main {
   padding: 5%;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -9,7 +10,8 @@ main {
 main .main-content {
   padding: 5%;
   display: flex;
-  flex-direction: column;
+  flex-direction: column; /* deixa a imagem com testo na vertical */
+  margin-bottom: 2%;
 }
 
 main .main-content h2 {
@@ -22,7 +24,7 @@ main .main-content .text {
 }
 
 main .main-content .text p {
-  width: 75%;
+  width: 80%;
   font-size: 1.2em;
   font-weight: 300;
   line-height: 1.6;
@@ -37,7 +39,7 @@ main .techs .cards-container {
 main .techs .cards-container .card {
   width: 120px;
   height: 120px;
-  padding: 10px;
+  padding: 20px;
   background-color: #eee;
   border-radius: 8px;
   margin-right: 0.9em;
@@ -52,7 +54,7 @@ main .techs .cards-container .card {
 }
 
 main .techs .cards-container .card img {
-  width: 80%;
+  width: 70%;
 }
 
 main .techs .cards-container .card:hover {
